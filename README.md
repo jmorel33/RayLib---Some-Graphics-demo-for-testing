@@ -7,3 +7,5 @@ TBH I did not use the best tricks in the book to produce this small demo, it is 
 Also to be noted is all of the assets used located in the data file are from other RayLib public demos, so not created by me.
 
 Again, this was a quick and dirty demo in RayLibn, for what it's worth.
+
+Also note that to exit the demo,, you will need to figure out the key combination, or to comment out SetExitKey(NULL)
