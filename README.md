@@ -1,4 +1,4 @@
-# RayLib---Some-Graphics-demo-for-testing
+# RayLib-Some-Graphics-demo-for-testing
 
 This was a simple demo created to try out the Raylib 2D graphics, before I start spending more time in this library.
 
