@@ -9,3 +9,9 @@ Also to be noted is all of the assets used located in the data file are from oth
 Again, this was a quick and dirty demo in RayLibn, for what it's worth.
 
 Also note that to exit the demo,, you will need to figure out the key combination, or to comment out SetExitKey(NULL)
+
+Thanks to Anata!!! profile: https://github.com/anatagawa?tab=repositories
+
+Demo assets used from;
+https://github.com/anatagawa/Demo-Awesome
+https://github.com/anatagawa/Demo-Paradox
